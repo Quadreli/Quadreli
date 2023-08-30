@@ -4,7 +4,7 @@
 
 
 Me formei em Sistema de Informação a alguns bons anos. Acabei não seguindo na area por estar empregado na época, mas sempre me arrependi por não ter seguido na area que me graduei.  
- Sempre gostei de Tecnologia, e estou tentando ingressar na programação pois no momento tenho pouca ~ou nenhuma~ experiência como desenvolvedor. Estou em busca do meu primeiro estagio.
+ Sempre gostei de Tecnologia, e estou tentando ingressar na programação pois no momento tenho pouca ~ou nenhuma~ experiência como desenvolvedor. Estou em busca do meu primeiro emprego na programação.
 
 ####  Learning
 
