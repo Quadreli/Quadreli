@@ -16,7 +16,14 @@ Me formei em Sistema de Informação a alguns bons anos. Acabei não seguindo na
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quadreli&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  ![Teste](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quadreli&theme=github_dark)
+  ![teste2](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quadreli&theme=github_dark&exclude={exclude})
+  [![GitHub Streak](https://streak-stats.demolab.com?user=quadreli&theme=highcontrast&locale=pt_BR)](https://git.io/streak-stats)
+
+  
+  
+
+
 
  ---
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/phquadreli/)
