@@ -18,7 +18,7 @@ Me formei em Sistema de Informação a alguns bons anos. Acabei não seguindo na
 
   ![Teste](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quadreli&theme=github_dark)
   ![teste2](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quadreli&theme=github_dark&exclude={exclude})
-  [![GitHub Streak](https://streak-stats.demolab.com?user=quadreli&theme=highcontrast&locale=pt_BR)](https://git.io/streak-stats)
+
 
   
   
